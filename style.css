@@ -1,0 +1,29 @@
+body{ 
+    background: url(aa.avif);
+}
+div{ 
+    border: 3px solid  blue; 
+    border-radius: 10px;
+    margin: 100px 350px; 
+    width: fit-content;
+    width: 200px ; 
+    height: 200px ; 
+}
+h3{ 
+    text-align: center;
+} 
+.User ,.pass { 
+    margin:5px;
+    border: solid;
+    border-color:  white;
+    border-radius: 5px; 
+         
+    
+}
+.save{ 
+    margin-left: 70px; 
+    border: solid;
+    margin-bottom: 5px; 
+    border-radius: 5px;
+    border-color: #eee;
+}
